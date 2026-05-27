@@ -2,6 +2,9 @@
 
 This is a generative AI mode which uses the Markov chai for predicting the user interests and topics.
 
+The promting to the AI can be done through the Serial monitor in ArduinoIDE if code is uploaded
+and Arduino  is connected via a USB cable to the Computer.
+
 Vocab.h - This file contains the dictionary for the words that the AI moden can use to reply to promts by the user.
           This dictionar contains 350 base words stored in flash memory and another 50 learnable words that can be added to SRAM if it detects that
           they are not in the base word database.
