@@ -12,12 +12,19 @@ These specs are WAY higher than the previous generation of Arduino, the Arduino 
 
 Feature          - Arduino UNO R3          - Arduino UNO R4 (Minima/WiFi)
 
+
 Processor        - ATmega328P (8-bit AVR)  - Renesas RA4M1 (32-bit ARM Cortex-M4)
+
 Clock Speed      - 16 MHz                  - 48 MHz
+
 Flash Memory     - 32 KB                   - 256 KB
+
 SRAM             - 2 KB                    - 32 KB
+
 EEPROM           - 1 KB                    - 8 KB
+
 USB Interface    - USB-B                   - USB-C
+
 
 
 Code by Aalok
